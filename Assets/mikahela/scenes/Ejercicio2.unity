@@ -133,9 +133,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 276725418}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51964b5962fbb5f4bb019348e9835143, type: 3}
+  m_Script: {fileID: 11500000, guid: 7a1813346fd3e4e4f94e0d14ecddf3f7, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AccesoGameObject1
+  m_EditorClassIdentifier: Assembly-CSharp::AccesoGameObject2
+  pelota: {fileID: 276725418}
+  velocidad: {x: 5, y: 3, z: 2}
 --- !u!1 &597406047
 GameObject:
   m_ObjectHideFlags: 0
