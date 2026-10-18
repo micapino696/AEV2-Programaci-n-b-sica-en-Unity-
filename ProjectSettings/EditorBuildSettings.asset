@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mikahela/scenes/AEV2.unity
+    guid: c451eddb4942b3c46ae14ecb98e2a36e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
