@@ -364,6 +364,10 @@ PrefabInstance:
       propertyPath: pelota
       value: 
       objectReference: {fileID: 349321427}
+    - target: {fileID: 6937237338726775515, guid: 1b237efa5a043c74f9d3aa14b0d51b63, type: 3}
+      propertyPath: pelota
+      value: 
+      objectReference: {fileID: 349321427}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
